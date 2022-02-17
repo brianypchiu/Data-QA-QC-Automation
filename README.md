@@ -43,5 +43,4 @@ brianchiu@gmail.com
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
